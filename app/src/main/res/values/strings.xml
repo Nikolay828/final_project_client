@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DentalClinic</string>
+    <string name="welcome">Добро Пожаловать</string>
+    <string name="enterEmail">Введите електронную почту</string>
+    <string name="enterPassword">Введите пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="doNotHaveAnAccount">У вас нет аккаунта?</string>
+    <string name="alreadyHaveAnAccount">Уже есть аккаунт?</string>
+    <string name="register">Зарегестрироваться</string>
+    <string name="signOn">Войти</string>
+    <string name="make_an_appointment">Запишитесь на прием</string>
+    <string name="select_service">Выберите услугу</string>
+    <string name="select_doctor">Выберите врача</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="select_day">Выберите день</string>
+    <string name="appointment">Записаться</string>
+    <string name="price">Цена:0</string>
+    <string name="sign_out_of_account">Выйти из аккаунта</string>
+    <string name="registeration">Регистрация</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="enter_email">Введите емейл</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="enter_password">Введите пароль</string>
+</resources>
